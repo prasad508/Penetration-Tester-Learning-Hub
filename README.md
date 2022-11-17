@@ -4,7 +4,7 @@ Complete guide for your security Analyst Journey
 
 
 #This Document will give you complete fredom for learn something new and enhance your knowledge.
-#We try to include all questuion and answer that will ask in your Penetration testing interview.
+#We try to include all questuion and answer that will ask in your Penetration testing.
 
 
 
