@@ -1,4 +1,4 @@
-# Security-Analyst
+# Penetration Tester
 Complete guide for your security Analyst Journey
 
 
